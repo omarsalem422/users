@@ -1,0 +1,25 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarsalem422/users.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarsalem422/users/issues"
+  },
+  "homepage": "https://github.com/omarsalem422/users#readme",
+  "dependencies": {
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.6",
+    "nodemon": "^1.19.0"
+  }
+}
